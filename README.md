@@ -1,4 +1,4 @@
-# 🌈 UTS PPL OKTA — Terminal Animation Project  
+# 🌈 UTS PPL OKTA — Zigzag 
 Project UTS PPL milik *Petirisia Okta Paulina (23.83.0978)* yang menampilkan animasi terminal warna-warni, efek neon, glitch, roket, dan mode visual yang berganti otomatis.
 
 ---
@@ -31,4 +31,4 @@ Project UTS PPL milik *Petirisia Okta Paulina (23.83.0978)* yang menampilkan ani
 
 ---
 
-## 📂 File Utama
+
